@@ -1,0 +1,44 @@
+---
+title: "CPLN 6890 Data Store"
+author: "Michael Fichman"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About
+
+This page consolidates data links and sources for students in CPLN 6890 - The City at Night - at the University of Pennsylvania's Weitzman School of Design, Department of City and Regional Planning.
+
+During the Fall semester of 2025, students will undertake nighttime Area Studies of five Philadelphia sites. Part of this process will involve data analysis of relevant information - public safety incidents, zoning, business licenses, and more.
+
+Many useful data sources are consolidated on this site for ease of access.
+
+# Map of Area Study Sites
+
+mapview map
+
+geojson of sites for use in class
+
+# Land Use
+
+Parcels
+Zoning - https://opendataphilly.org/datasets/zoning-base-districts/
+Zoning overlays - https://opendataphilly.org/datasets/zoning-overlays/
+Special Vending Districts - https://opendataphilly.org/datasets/special-vending-districts/
+
+# Licensing
+
+Liquor
+Business Licenses - https://opendataphilly.org/datasets/licenses-and-inspections-business-licenses/
+
+# OSM code
+
+# Public Safety
+
+Crime incidents - https://opendataphilly.org/datasets/crime-incidents/
+311
+Licenses and Inspections Code Violations and Permit Refusals - https://opendataphilly.org/datasets/licenses-and-inspections-appeals-of-code-violations-and-permit-refusals/
