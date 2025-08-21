@@ -7,6 +7,10 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(sf)
+library(mapview)
+library(kableExtra)
 ```
 
 # About
@@ -19,26 +23,62 @@ Many useful data sources are consolidated on this site for ease of access.
 
 # Map of Area Study Sites
 
-mapview map
+The following map shows the five study areas.
 
-geojson of sites for use in class
+You can grab spatial data delineating the boundaries of the study areas as shp (in a zipfile), or as geojson in the "study_areas" folder in the [class GitHub Repo](https://github.com/mafichman/cpln_6890/tree/main/study_areas/2025).
+
+
+```{r}
+study_areas <- st_read("https://raw.githubusercontent.com/mafichman/cpln_6890/refs/heads/main/study_areas/2025/geojson/study_areas_2025.geojson")
+
+mapview(study_areas, label = study_areas$Name)
+
+```
+
+The following sections are under construction, and will be filled with relevant data sets for Area Study #2.
 
 # Land Use
 
 Parcels
-Zoning - https://opendataphilly.org/datasets/zoning-base-districts/
-Zoning overlays - https://opendataphilly.org/datasets/zoning-overlays/
-Special Vending Districts - https://opendataphilly.org/datasets/special-vending-districts/
+
+[City of Philadelphia Zoning](https://opendataphilly.org/datasets/zoning-base-districts/)
+
+[City of Philadelphia Zoning Overlays](https://opendataphilly.org/datasets/zoning-overlays/)
+
+[City of Philadelphia Special Vending Districts](https://opendataphilly.org/datasets/special-vending-districts/)
 
 # Licensing
 
-Liquor
-Business Licenses - https://opendataphilly.org/datasets/licenses-and-inspections-business-licenses/
+PA Liquor Control Board - On-and-off-Premises Liquor Licenses - Under construction
+
+[City of Philadelphia Business Activity Licenses](https://opendataphilly.org/datasets/licenses-and-inspections-business-licenses/)
 
 # OSM code
+
+Under construction
 
 # Public Safety
 
 Crime incidents - https://opendataphilly.org/datasets/crime-incidents/
+
 311
+
 Licenses and Inspections Code Violations and Permit Refusals - https://opendataphilly.org/datasets/licenses-and-inspections-appeals-of-code-violations-and-permit-refusals/
+
+# Mobility And Transportation
+
+Under construction - 8010 2021 project
+
+IndieGo
+
+SETPA
+
+# Political Boundaries
+
+Police Districts
+
+Council Districts
+
+Registered Community Organizations
+
+Commercial Corridor Boundaries
