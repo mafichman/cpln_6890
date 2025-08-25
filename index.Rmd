@@ -59,17 +59,17 @@ Under construction
 
 # Public Safety
 
-Crime incidents - https://opendataphilly.org/datasets/crime-incidents/
+[Philadelphia Police Department Crime incidents](https://opendataphilly.org/datasets/crime-incidents/)
 
 311
 
-Licenses and Inspections Code Violations and Permit Refusals - https://opendataphilly.org/datasets/licenses-and-inspections-appeals-of-code-violations-and-permit-refusals/
+[City of Philadelphia Licenses and Inspections - Code Violations and Permit Refusals]( https://opendataphilly.org/datasets/licenses-and-inspections-appeals-of-code-violations-and-permit-refusals/)
 
 # Mobility And Transportation
 
 Under construction - 8010 2021 project
 
-IndieGo
+IndiGo
 
 SETPA
 
