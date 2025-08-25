@@ -49,7 +49,7 @@ Parcels
 
 # Licensing
 
-PA Liquor Control Board - On-and-off-Premises Liquor Licenses - Under construction
+[PA Liquor Control Board Licenses - Philadelphia County](https://github.com/mafichman/cpln_6890/blob/main/plcb_licenses/PHL_PLCB_geocoded.csv)
 
 [City of Philadelphia Business Activity Licenses](https://opendataphilly.org/datasets/licenses-and-inspections-business-licenses/)
 
