@@ -65,9 +65,12 @@ There are several important considerations about these data:
 
 1. These data extend outside the study boundaries. Use a spatial join or select by location to exclude unwanted data points.
 
-2. The Google Places API is not perfect - I pulled data for a handful of business categories but there are probably some that were missed, and there are inaccurate data - these are user input data!
+2. The Google Places API is not perfect - I pulled data for a handful of business categories but there are *absolutely* some businesses that were missed in the searches, and there are inaccurate data from user input.
 
 3. You will need to clean these data a bit. Places that are open 24 hours show "NA" for closing times... but places that are just plain missing information... also show NA.  You will need to pick through and figure out what's what. There are also some places that have multiple closing times on a given day ... for example if you close at 2AM on Saturday night (e.g. 0200 on Sunday), and 11PM on Sunday night (e.g. 2300 on Sunday), you will have multiple times listed for a given day.
+
+
+[Google Places Data Set](https://github.com/mafichman/cpln_6890/blob/main/places/google_places_92225.geojson)
 
 # Public Safety
 
