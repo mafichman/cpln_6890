@@ -37,6 +37,10 @@ mapview(study_areas, label = study_areas$Name)
 
 The following sections are under construction, and will be filled with relevant data sets for Area Study #2.
 
+# Philadelphia Atlas
+
+[atlas.phila.gov](https://atlas.phila.gov) is a very high quality viewer for many of the data sets mentioned below. It's a great place to start your investigation of your area or to investigate an individual site in detail. It's perhaps the best place to find information about zoning overlays.
+
 # Land Use
 
 [City of Philadelphia Zoning](https://opendataphilly.org/datasets/zoning-base-districts/)
@@ -53,9 +57,17 @@ You can consult [Section 14-602 of the Philadelphia Code](https://codelibrary.am
 
 [City of Philadelphia Business Activity Licenses](https://opendataphilly.org/datasets/licenses-and-inspections-business-licenses/)
 
-# OSM code
+# Google Places
 
-Under construction
+I pulled data from the Google Places API for several categories - "point of interest", "restaurant", "Night club", and "store" - and then created columns that represent opening and closing times for each day of the week - 0 (Sunday) through 6 (Saturday). There are also true/false columns that represent the point of interest type (e.g. "Restaurant" or "Gas Station")
+
+There are several important considerations about these data:
+
+1. These data extend outside the study boundaries. Use a spatial join or select by location to exclude unwanted data points.
+
+2. The Google Places API is not perfect - I pulled data for a handful of business categories but there are probably some that were missed, and there are inaccurate data - these are user input data!
+
+3. You will need to clean these data a bit. Places that are open 24 hours show "NA" for closing times... but places that are just plain missing information... also show NA.  You will need to pick through and figure out what's what. There are also some places that have multiple closing times on a given day ... for example if you close at 2AM on Saturday night (e.g. 0200 on Sunday), and 11PM on Sunday night (e.g. 2300 on Sunday), you will have multiple times listed for a given day.
 
 # Public Safety
 
@@ -63,15 +75,17 @@ Under construction
 
 [City of Philadelphia Licenses and Inspections - Code Violations and Permit Refusals](https://opendataphilly.org/datasets/licenses-and-inspections-appeals-of-code-violations-and-permit-refusals/)
 
-311
-
 # Mobility And Transportation
 
-Under construction - 8010 2021 project
+[Philadelphia Nighttime Data Dashboard - Safegraph 2018 data summary](https://sabrinasmlee.github.io/exploratory_page/home.html)
 
-IndiGo
+[Nighttime Data Dashboard - Raw Geojsons with Origin-Destination data](https://github.com/mafichman/musa_practicum_nighttime/tree/main/Corridor_CBG_geojsons)
 
-SETPA
+[Kornhauser, Rawn and Lee, 2021 - Documentation](https://pennmusa.github.io/MUSA_801.io/project_21/index.html#1_Introduction)
+
+[IndeGo Trip Data](https://www.rideindego.com/about/data/)
+
+[SEPTA Stops, Routes and Locations](https://opendataphilly.org/datasets/septa-routes-stops-locations/)
 
 # Political Boundaries
 
