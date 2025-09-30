@@ -1,0 +1,8 @@
+library(tidyverse)
+library(sf)
+
+# convert study areas to geojson
+
+study_areas <- st_read("~/GitHub/cpln_6890/study_areas/2025/shp/study_areas_2025.shp")
+
+st_write(study_areas, "~/GitHub/cpln_6890/study_areas/2025/geojson/study_areas_2025.geojson")
