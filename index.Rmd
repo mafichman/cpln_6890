@@ -29,7 +29,7 @@ You can grab spatial data delineating the boundaries of the study areas as shp (
 
 
 ```{r, echo=FALSE,message=FALSE, warning=FALSE, results= 'hide'}
-study_areas <- st_read("https://raw.githubusercontent.com/mafichman/cpln_6890/refs/heads/main/study_areas/2026/geojson/studyAreas2026.geojson")
+study_areas <- st_read("https://raw.githubusercontent.com/mafichman/cpln_6890/refs/heads/main/study_areas/2026/geojson/studyAreas2026_v2.geojson")
 ```
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 mapview(study_areas, label = "study_areas$Name", legend = FALSE)
@@ -50,11 +50,11 @@ mapview(study_areas, label = "study_areas$Name", legend = FALSE)
 
 [City of Philadelphia Special Vending Districts](https://opendataphilly.org/datasets/special-vending-districts/)
 
-You can consult [Section 14-602 of the Philadelphia Code](https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-292339) to understand what kinds of uses are prohibited in each zoning district.
+You can consult [Section 14-602 of the Philadelphia Code](https://codelibrary.amlegal.com/codes/philadelphia/latest/philadelphia_pa/0-0-0-292339) to understand what kinds of uses are prohibited in each zoning district, including several categories related to assembly, events, food service, and other commercial uses.
 
 # Licensing
 
-[PA Liquor Control Board Licenses - Philadelphia County - 2025](https://github.com/mafichman/cpln_6890/blob/main/plcb_licenses/PHL_PLCB_geocoded.csv)
+[PA Liquor Control Board Licenses - Philadelphia County - 2025](https://github.com/mafichman/cpln_6890/blob/main/plcb_licenses/2026/PHL_PLCB_geocoded.csv)
 
 [City of Philadelphia Business Activity Licenses](https://opendataphilly.org/datasets/licenses-and-inspections-business-licenses/)
 
@@ -72,7 +72,9 @@ There are several important considerations about these data:
 
 4. Long data - these data are similar to the wide data EXCEPT, each place has 7 rows in the data set, one for each day of the week. In this data set, there are columns for hours 0, 1, 2... up to 23, with a 0/1 indicator noting whether the business is open. Again - you might need to clean out businesses that are defunct or don't have relevant "hours", because these show up in the google data just like 24-hour businesses - with no listed open/close times! Be careful to clean those out of your data.
 
-THESE DATA WILL BE PUBLISHED TO THE SITE IN MID-SEPTEMBER
+[Google Places - Wide Data](https://github.com/mafichman/cpln_6890/blob/main/places/google_places_82626.geojson/)
+
+[Google Places - Long Data](https://github.com/mafichman/cpln_6890/blob/main/places/google_places_LONG_82626.geojson/)
 
 # Public Safety
 
