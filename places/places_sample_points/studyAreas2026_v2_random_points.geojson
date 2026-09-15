@@ -1,0 +1,812 @@
+{
+  "type": "FeatureCollection",
+  "name": "studyAreas2026_v2_random_points",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "U CITY WEST",
+        "sample_id": 1,
+        "latitude": 39.95522897530546,
+        "longitude": -75.2019204370343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2019204370343,
+          39.95522897530546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "U CITY WEST",
+        "sample_id": 2,
+        "latitude": 39.95645872383138,
+        "longitude": -75.2021463165895
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2021463165895,
+          39.95645872383138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "U CITY WEST",
+        "sample_id": 3,
+        "latitude": 39.954340695714556,
+        "longitude": -75.1987380611418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1987380611418,
+          39.954340695714556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "U CITY WEST",
+        "sample_id": 4,
+        "latitude": 39.95420703267196,
+        "longitude": -75.20142778209463
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20142778209463,
+          39.95420703267196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "U CITY WEST",
+        "sample_id": 5,
+        "latitude": 39.95515280516635,
+        "longitude": -75.20256093001848
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20256093001848,
+          39.95515280516635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "U CITY WEST",
+        "sample_id": 6,
+        "latitude": 39.954984836430214,
+        "longitude": -75.19898633030681
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19898633030681,
+          39.954984836430214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "U CITY WEST",
+        "sample_id": 7,
+        "latitude": 39.952666811405194,
+        "longitude": -75.20258467962441
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20258467962441,
+          39.952666811405194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "U CITY WEST",
+        "sample_id": 8,
+        "latitude": 39.95512058989995,
+        "longitude": -75.19886264741842
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19886264741842,
+          39.95512058989995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "U CITY WEST",
+        "sample_id": 9,
+        "latitude": 39.95584925099379,
+        "longitude": -75.20235369604573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20235369604573,
+          39.95584925099379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "U CITY WEST",
+        "sample_id": 10,
+        "latitude": 39.95404041459135,
+        "longitude": -75.1984806297325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1984806297325,
+          39.95404041459135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RITTENHOUSE SQUARE",
+        "sample_id": 1,
+        "latitude": 39.95019991897931,
+        "longitude": -75.1714720958257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1714720958257,
+          39.95019991897931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RITTENHOUSE SQUARE",
+        "sample_id": 2,
+        "latitude": 39.9504548293441,
+        "longitude": -75.16932876878
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16932876878,
+          39.9504548293441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RITTENHOUSE SQUARE",
+        "sample_id": 3,
+        "latitude": 39.949044340766704,
+        "longitude": -75.17296423322468
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17296423322468,
+          39.949044340766704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RITTENHOUSE SQUARE",
+        "sample_id": 4,
+        "latitude": 39.948595716458826,
+        "longitude": -75.17295854926671
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17295854926671,
+          39.948595716458826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RITTENHOUSE SQUARE",
+        "sample_id": 5,
+        "latitude": 39.95079329804164,
+        "longitude": -75.1700982666087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1700982666087,
+          39.95079329804164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RITTENHOUSE SQUARE",
+        "sample_id": 6,
+        "latitude": 39.951691781866664,
+        "longitude": -75.17285311892206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17285311892206,
+          39.951691781866664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RITTENHOUSE SQUARE",
+        "sample_id": 7,
+        "latitude": 39.948865410755246,
+        "longitude": -75.1712291751708
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1712291751708,
+          39.948865410755246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RITTENHOUSE SQUARE",
+        "sample_id": 8,
+        "latitude": 39.950865858080064,
+        "longitude": -75.17001175683339
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17001175683339,
+          39.950865858080064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RITTENHOUSE SQUARE",
+        "sample_id": 9,
+        "latitude": 39.95145339321551,
+        "longitude": -75.17271741435867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17271741435867,
+          39.95145339321551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RITTENHOUSE SQUARE",
+        "sample_id": 10,
+        "latitude": 39.94969763411653,
+        "longitude": -75.17219516695582
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17219516695582,
+          39.94969763411653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SPRING GARDEN EAST",
+        "sample_id": 1,
+        "latitude": 39.961280928855174,
+        "longitude": -75.15328229167247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15328229167247,
+          39.961280928855174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SPRING GARDEN EAST",
+        "sample_id": 2,
+        "latitude": 39.9616483367416,
+        "longitude": -75.15360580087155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15360580087155,
+          39.9616483367416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SPRING GARDEN EAST",
+        "sample_id": 3,
+        "latitude": 39.96175453811713,
+        "longitude": -75.1474918003807
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1474918003807,
+          39.96175453811713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SPRING GARDEN EAST",
+        "sample_id": 4,
+        "latitude": 39.96164371875063,
+        "longitude": -75.14800135433848
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14800135433848,
+          39.96164371875063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SPRING GARDEN EAST",
+        "sample_id": 5,
+        "latitude": 39.96079209735902,
+        "longitude": -75.14729172526418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14729172526418,
+          39.96079209735902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SPRING GARDEN EAST",
+        "sample_id": 6,
+        "latitude": 39.961042308323805,
+        "longitude": -75.14805742253424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14805742253424,
+          39.961042308323805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SPRING GARDEN EAST",
+        "sample_id": 7,
+        "latitude": 39.961208543855,
+        "longitude": -75.14659163798927
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14659163798927,
+          39.961208543855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SPRING GARDEN EAST",
+        "sample_id": 8,
+        "latitude": 39.961032173834596,
+        "longitude": -75.14493958780989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14493958780989,
+          39.961032173834596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SPRING GARDEN EAST",
+        "sample_id": 9,
+        "latitude": 39.96126020657297,
+        "longitude": -75.1524326839945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1524326839945,
+          39.96126020657297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SPRING GARDEN EAST",
+        "sample_id": 10,
+        "latitude": 39.96166256526454,
+        "longitude": -75.15286075696574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15286075696574,
+          39.96166256526454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FISHTOWN - KENSINGTON",
+        "sample_id": 1,
+        "latitude": 39.98293982428297,
+        "longitude": -75.12594512421447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12594512421447,
+          39.98293982428297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FISHTOWN - KENSINGTON",
+        "sample_id": 2,
+        "latitude": 39.97961487524143,
+        "longitude": -75.12860575247956
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12860575247956,
+          39.97961487524143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FISHTOWN - KENSINGTON",
+        "sample_id": 3,
+        "latitude": 39.97901721102365,
+        "longitude": -75.1290757360237
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1290757360237,
+          39.97901721102365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FISHTOWN - KENSINGTON",
+        "sample_id": 4,
+        "latitude": 39.982078936016784,
+        "longitude": -75.12881706753733
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12881706753733,
+          39.982078936016784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FISHTOWN - KENSINGTON",
+        "sample_id": 5,
+        "latitude": 39.982619708924226,
+        "longitude": -75.128135759691
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.128135759691,
+          39.982619708924226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FISHTOWN - KENSINGTON",
+        "sample_id": 6,
+        "latitude": 39.982041867772736,
+        "longitude": -75.12794660738163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12794660738163,
+          39.982041867772736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FISHTOWN - KENSINGTON",
+        "sample_id": 7,
+        "latitude": 39.98080201949954,
+        "longitude": -75.12777343452167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12777343452167,
+          39.98080201949954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FISHTOWN - KENSINGTON",
+        "sample_id": 8,
+        "latitude": 39.9819901319712,
+        "longitude": -75.12854814764823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12854814764823,
+          39.9819901319712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FISHTOWN - KENSINGTON",
+        "sample_id": 9,
+        "latitude": 39.97880919705155,
+        "longitude": -75.13075927656179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13075927656179,
+          39.97880919705155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FISHTOWN - KENSINGTON",
+        "sample_id": 10,
+        "latitude": 39.98097653982086,
+        "longitude": -75.12800023532161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12800023532161,
+          39.98097653982086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OLD CITY",
+        "sample_id": 1,
+        "latitude": 39.94802873983905,
+        "longitude": -75.14256456587869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14256456587869,
+          39.94802873983905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OLD CITY",
+        "sample_id": 2,
+        "latitude": 39.953453273952896,
+        "longitude": -75.14504808189604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14504808189604,
+          39.953453273952896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OLD CITY",
+        "sample_id": 3,
+        "latitude": 39.95030905580662,
+        "longitude": -75.14260097330595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14260097330595,
+          39.95030905580662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OLD CITY",
+        "sample_id": 4,
+        "latitude": 39.94997633063424,
+        "longitude": -75.14566958584965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14566958584965,
+          39.94997633063424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OLD CITY",
+        "sample_id": 5,
+        "latitude": 39.95171214878821,
+        "longitude": -75.14265043410565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14265043410565,
+          39.95171214878821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OLD CITY",
+        "sample_id": 6,
+        "latitude": 39.95104804528733,
+        "longitude": -75.1471749296158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1471749296158,
+          39.95104804528733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OLD CITY",
+        "sample_id": 7,
+        "latitude": 39.949260104101434,
+        "longitude": -75.14262055615718
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14262055615718,
+          39.949260104101434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OLD CITY",
+        "sample_id": 8,
+        "latitude": 39.951259496674375,
+        "longitude": -75.14594344360282
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14594344360282,
+          39.951259496674375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OLD CITY",
+        "sample_id": 9,
+        "latitude": 39.95049951482799,
+        "longitude": -75.14623091188513
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14623091188513,
+          39.95049951482799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OLD CITY",
+        "sample_id": 10,
+        "latitude": 39.95197482603697,
+        "longitude": -75.1434049627869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1434049627869,
+          39.95197482603697
+        ]
+      }
+    }
+  ]
+}
